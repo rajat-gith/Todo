@@ -1,4 +1,4 @@
 # Todo
-A ToDo where you can set your task based on the priority level.
-ROOM Database
-RecyclerView
+A ToDo where you can set your task based on the priority level.<br>
+ROOM Database<br>
+RecyclerView<br>
